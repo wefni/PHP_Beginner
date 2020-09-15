@@ -10,7 +10,10 @@
     <title></title>
   </head>
   <body>
-
+      <?php
+        echo "valami";
+        echo "meg valami";
+      ?>
   </body>
 </html>
 
